@@ -1,4 +1,5 @@
 * python3 first
+* copy all *csv files into data folder
 * install arboretum https://github.com/sh1ng/arboretum
 * install lightgbm
 * $ python3 create_products.py
